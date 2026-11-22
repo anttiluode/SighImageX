@@ -1,0 +1,18 @@
+{
+  "source": "Matplotlib sample_data/grace_hopper.jpg",
+  "nonoverlapping_patches": 72,
+  "results": {
+    "noise": {
+      "fixed": 0.0186164883659588,
+      "adaptive": 0.016396201007697578,
+      "input": 0.08923948692455018,
+      "two_filter": 0.016344455150183488
+    },
+    "blur": {
+      "fixed": 0.012083495263641483,
+      "adaptive": 0.004188219190204787,
+      "input": 0.008763779702210034,
+      "two_filter": 0.004281977361701567
+    }
+  }
+}
